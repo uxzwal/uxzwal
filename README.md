@@ -180,14 +180,9 @@ I started with Python, C, C++, and DSA. Now I spend most of my time around FastA
 ## GitHub Dashboard
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=uxzwal&show_icons=true&hide_border=true&border_radius=14&bg_color=020617&title_color=60A5FA&icon_color=A78BFA&text_color=E5E7EB&count_private=true" width="49%" />
 <img src="https://streak-stats.demolab.com?user=uxzwal&theme=tokyonight&hide_border=true&background=020617&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA" width="49%" />
 
 <br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxzwal&layout=compact&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E5E7EB&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uxzwal&theme=tokyo-night&bg_color=020617&hide_border=true&line=60A5FA&point=A78BFA&area=true&area_color=60A5FA20" width="49%" />
 
 </div>
 
