@@ -177,17 +177,6 @@ I started with Python, C, C++, and DSA. Now I spend most of my time around FastA
 
 ---
 
-## GitHub Dashboard
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=uxzwal&theme=tokyonight&hide_border=true&background=020617&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA" width="49%" />
-
-<br />
-
-</div>
-
----
-
 ## Education
 
 | Education | Institute | Status |
