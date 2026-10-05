@@ -131,30 +131,6 @@ I learn by **shipping real projects** — not by collecting tool names.
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=uxzwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&title_color=60A5FA&icon_color=A78BFA" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uxzwal&theme=tokyonight&hide_border=true&background=0D1117&stroke=60A5FA&ring=A78BFA&fire=F472B6&currStreakLabel=60A5FA" />
-
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=uxzwal&bg_color=0D1117&color=60A5FA&line=A78BFA&point=F472B6&area=true&hide_border=true" />
-
-<br />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxzwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uxzwal&theme=tokyonight&utcOffset=5.5" />
-
-<br />
-
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=uxzwal&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" />
-
-</div>
-
----
-
 ## LeetCode Stats
 
 <div align="center">
